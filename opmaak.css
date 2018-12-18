@@ -4,5 +4,5 @@ h1 {
 
 body {
   background: url("Venetië.JPG")  no-repeat;
-  background-size: contain;
+  background-size: cover;
 }
