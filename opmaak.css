@@ -3,6 +3,6 @@ h1 {
 }
 
 body {
-  background: url("ventie background.jpg")  no-repeat;
-  background-size: 666px;
+  background: url("ventie background.jpg") no-repeat;
+  background-size: cover;
 }
