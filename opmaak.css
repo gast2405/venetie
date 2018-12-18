@@ -38,5 +38,5 @@ ul li:hover ul li {
 }
 body{
   background: url("Venetië.JPG")  no-repeat;
-  background-size: contain;
+  background-size: cover;
 }
