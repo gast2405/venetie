@@ -2,7 +2,7 @@ body {
   background: url("ventie background.jpg");
   background-size: cover;
   font-family: arial;
-  color: black;
+  color: white;
 }
 ul{
   margin: 0px;
@@ -44,7 +44,7 @@ a {
 h1.Bio, h2.Bio, p.bio {
   border: 4px solid green;
   color: ;
-  background-color: maroon;
+  background-color: licht-blue;
   text-align : center;
   font-family: Georgia, "Times New Roman" , Times, serif;
   font-style: italic;
