@@ -44,6 +44,7 @@ h1.Bio, h2.Bio, p.bio {
   font-family: Georgia, "Times New Roman" , Times, serif;
   font-style: italic;
 }
+<<<<<<< HEAD
 ul.menu{
   text-align: center;
 }
@@ -53,3 +54,5 @@ ul.menu{
     width: 150px;
   }
 }
+=======
+>>>>>>> 3c576d5c0b3daf4c48894720c81573db555a8a72
