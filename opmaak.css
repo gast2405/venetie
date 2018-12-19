@@ -49,3 +49,15 @@ h1.prijs{
   border-radius: 20px 0px 20px 0px;
   border: 4px solid #000099;
 }
+<<<<<<< HEAD
+ul.menu{
+  text-align: center;
+}
+
+@media only screen and (max-width: 1430px) {
+  ul li {
+    width: 150px;
+  }
+}
+=======
+>>>>>>> 3c576d5c0b3daf4c48894720c81573db555a8a72
