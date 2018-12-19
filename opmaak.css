@@ -53,3 +53,9 @@ h1.Bio, h2.Bio, p.bio {
 ul.menu{
   text-align: center;
 }
+
+@media only screen and (max-width: 1430px) {
+  ul li {
+    width: 150px;
+  }
+}
