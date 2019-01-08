@@ -1,7 +1,8 @@
 body {
   font-family: arial;
   color: black;
-  background: url("hout.jpg");
+  background: url("Venetië.JPG");
+  background-size: cover;
 }
 ul{
   margin: 0px;
