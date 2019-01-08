@@ -1,6 +1,7 @@
 body {
   font-family: arial;
   color: black;
+  background: url("hout.jpg");
 }
 ul{
   margin: 0px;
@@ -31,25 +32,27 @@ ul li ul li {
 ul li:hover ul li {
   display: block;
 }
-
 a {
   text-decoration: none;
-  color: black;
+  color: blue;
 }
 h1.Bio, h2.Bio, p.bio {
+  background-color: #66CCCC;
+  border-radius: 20px 20px 20px 20px;
   border: 4px solid green;
-  color: ;
-  background-color: licht-blue;
-  text-align : center;
-  font-family: Georgia, "Times New Roman" , Times, serif;
-  font-style: italic;
 }
-ul.menu{
-  text-align: center;
+ul.info{
+  color: black;
 }
-
+h1.prijs{
+  background-color: #00CCFF;
+  border-radius: 20px 0px 20px 0px;
+  border: 4px solid #000099;
+}
 @media only screen and (max-width: 1430px) {
   ul li {
     width: 150px;
   }
-}
+  body{
+    background: url("hout.jpg");
+  }
