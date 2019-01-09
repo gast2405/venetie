@@ -64,3 +64,6 @@ h1.prijs{
   ul li {
     width: 150px;
   }
+  a p{
+    color: green;
+  }
