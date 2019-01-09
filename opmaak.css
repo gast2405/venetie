@@ -2,7 +2,6 @@ body {
   font-family: arial;
   color: black;
   background: url("hout.jpg");
-  background-size: contain;
 }
 
 .text{
