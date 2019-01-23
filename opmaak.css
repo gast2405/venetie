@@ -83,11 +83,12 @@ h1.prijs{
     margin-left: 0pt;
     margin-right: 0pt;
   }
-  ul {
+  ul li{
     float: left;
-    max width: 600px;
+    max width: 1200px;
     background-color: black;
-    width: 100%;
+    width: 200px;
+    margin-bottom: 100px;
 
   }
 }
