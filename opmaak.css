@@ -43,7 +43,7 @@ ul li:hover ul li {
 }
 a {
   text-decoration: none;
-  color: red;
+  color: #990000;
 }
 h1.Bio, h2.Bio, p.bio {
   background-color: #66CCCC;
@@ -73,6 +73,28 @@ h1.prijs{
   ul li {
     width: 200px;
   }
-h1.Dagen{
-  text-align: center;
+  h1.Dagen{
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .text{
+    margin-left: 0pt;
+    margin-right: 0pt;
+  }
+  ul li{
+    float: left;
+    max width: 1200px;
+    background-color: black;
+    width: 200px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+
+  }
+}
+
+img {
+  max-width: 600px;
+      width: 100%;
 }
